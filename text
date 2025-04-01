@@ -1,6 +1,14 @@
 This is a Test file.
+<<<<<<< HEAD
 The cotent in this repository are under MIT license
 Currently in dev branch and doing changes.
 Hello from dev.
+||||||| parent of c7b81f8 (more changes in main main)
+The cotent in this repository are under MIT license
+Changes for main branch.
+=======
+The content in this repository are under MIT license
+Changes for main branch.
+>>>>>>> c7b81f8 (more changes in main main)
 
 

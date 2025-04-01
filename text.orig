@@ -1,0 +1,13 @@
+This is a Test file.
+The cotent in this repository are under MIT license
+<<<<<<< HEAD
+Currently in dev branch and doing changes.
+Hello from dev.
+
+||||||| parent of 9237c12 (Merge changes in main)
+Currently in dev branch and doing changes.
+=======
+Changes for main branch.
+>>>>>>> 9237c12 (Merge changes in main)
+
+
